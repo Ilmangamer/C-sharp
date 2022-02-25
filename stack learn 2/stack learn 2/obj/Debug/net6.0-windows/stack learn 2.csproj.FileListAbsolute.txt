@@ -1,0 +1,17 @@
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\bin\Debug\net6.0-windows\stack learn 2.exe
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\bin\Debug\net6.0-windows\stack learn 2.deps.json
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\bin\Debug\net6.0-windows\stack learn 2.runtimeconfig.json
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\bin\Debug\net6.0-windows\stack learn 2.dll
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\bin\Debug\net6.0-windows\stack learn 2.pdb
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.csproj.AssemblyReference.cache
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack_learn_2.Form1.resources
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.csproj.GenerateResource.cache
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.AssemblyInfoInputs.cache
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.AssemblyInfo.cs
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.csproj.CoreCompileInputs.cache
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.dll
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\refint\stack learn 2.dll
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.pdb
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\stack learn 2.genruntimeconfig.cache
+C:\Users\kodjo\source\repos\stack learn 2\stack learn 2\obj\Debug\net6.0-windows\ref\stack learn 2.dll

@@ -1,0 +1,17 @@
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\bin\Debug\net6.0-windows\Queue learning.exe
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\bin\Debug\net6.0-windows\Queue learning.deps.json
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\bin\Debug\net6.0-windows\Queue learning.runtimeconfig.json
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\bin\Debug\net6.0-windows\Queue learning.dll
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\bin\Debug\net6.0-windows\Queue learning.pdb
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.csproj.AssemblyReference.cache
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue_learning.Form1.resources
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.csproj.GenerateResource.cache
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.AssemblyInfoInputs.cache
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.AssemblyInfo.cs
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.csproj.CoreCompileInputs.cache
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.dll
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\refint\Queue learning.dll
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.pdb
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\Queue learning.genruntimeconfig.cache
+C:\Users\kodjo\source\repos\Queue learning\Queue learning\obj\Debug\net6.0-windows\ref\Queue learning.dll
